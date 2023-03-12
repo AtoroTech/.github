@@ -9,7 +9,7 @@ It includes many features:
 - Coin Earning Methods
 - Server renewal system, to keep users active
 
-Atoro Store, Atoro API Coming Soon
+Atoro Store, Atoro Bot Coming Soon
 
 ***
 
