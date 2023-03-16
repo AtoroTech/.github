@@ -13,4 +13,4 @@ Atoro Store, Atoro API Coming Soon
 
 ***
 
-*Project by [@SnyderWillCode](https://github.com/SnyderWillCode) & [@NayzKutzu](https://github.com/nayskutzu)*
+*Project by [@SnyderWillCode](https://github.com/SnyderWillCode) [@NayzKutzu](https://github.com/nayskutzu) & [@vqnish](https://github.com/vqnish)*
