@@ -6,7 +6,9 @@ AtoroTech is an Open Source Project Development group who make client areas for 
 
 Projects:
 Atoro Client - Pterodactyl API based client area for free/paid hosting services. (Conplete)
+<br/>
 Atoro Web - Cyberpanel API based client area fr=or free web hosting. (Completed)
+<br/>
 Atoro Share - ShareX Server/dashboard for image & text files hosting (In Progress)
 
 ***
