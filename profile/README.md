@@ -2,14 +2,12 @@
 
 # Atoro Tech.
 
-Atoro Dash is a Open-Src client area for Pterodactyl Panel, with the neat feature of the API.
-It includes many features:
-- User registration (Email, Discord)
-- Servers (Creation, Delete, Edit)
-- Coin Earning Methods
-- Server renewal system, to keep users active
+AtoroTech is an Open Source Project Development group who make client areas for the hosting community.
 
-Atoro Store, Atoro Bot Coming Soon
+Projects:
+Atoro Client - Pterodactyl API based client area for free/paid hosting services. (Conplete)
+Atoro Web - Cyberpanel API based client area fr=or free web hosting. (Completed)
+Atoro Share - ShareX Server/dashboard for image & text files hosting (In Progress)
 
 ***
 
