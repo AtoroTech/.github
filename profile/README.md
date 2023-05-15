@@ -14,4 +14,4 @@ Atoro Share - ShareX Server/dashboard for image & text files hosting (In Progres
 
 ***
 
-*Project by [@SnyderWillCode](https://github.com/SnyderWillCode) & [@NayzKutzu](https://github.com/nayskutzu)*
+*Project by [@SnyderWillCode](https://github.com/SnyderWillCode)*
