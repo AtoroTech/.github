@@ -8,10 +8,10 @@ Projects:
 <br>
 Atoro Client - Pterodactyl API based client area for free/paid hosting services. (Complete)
 <br>
-Atoro Web - Cyberpanel API based client area for free web hosting. (Completed)
-<br>
-Atoro Share - ShareX Server/dashboard for image & text files hosting (In Progress)
+Atoro Pics - ShareX Server/dashboard for image & text files hosting (In Progress)
 
 ***
 
-*Project by [@SnyderWillCode](https://github.com/SnyderWillCode)*
+*Project by [@SnyderWillCode](https://github.com/SnyderWillCode), [@NaysKutzu](https://github.com/NaysKutzu)*
+
+*All projects are under copyright: AtoroTech 2022-2023*
