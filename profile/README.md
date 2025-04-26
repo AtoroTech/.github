@@ -1,9 +1,12 @@
 # Atoro Tech.
-AtoroTech is getting a revamp and will start releasing projects soon. Eta 2025 Jan
-All Previous Projects have been abandoned and will get proper rewrites and better support.
+AtorTech is being re-built with proper support and infrastucture. 
 
-AtoroTech is an Open Source Project Development group who make client areas for the hosting community.
+## Projects
+- AtoroFrontend
+- AtoroAPI
+- AtoroDaemon
 
+The above 3 projects are actualy one project split into 3 parts for simplicity of develoment.
 ***
 
 *Project by [@SnyderWillCode](https://github.com/SnyderWillCode), [@NaysKutzu](https://github.com/NaysKutzu)*
