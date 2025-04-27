@@ -1,8 +1,5 @@
-![image](https://cdn.discordapp.com/attachments/1037824534880993310/1084226666991206530/New_Project_3.png)
+# AtoroTech
 
-# Atoro Tech.
-Atoro Store, Atoro API Coming Soon
+This is the profile readme for AtoroTech GitHub Organisation.
 
-***
-
-*Project by [@SnyderWillCode](https://github.com/SnyderWillCode) & [@NayzKutzu](https://github.com/nayskutzu)*
+Nice to meet you!
