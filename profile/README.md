@@ -1,14 +1,18 @@
-# Atoro Tech.
-AtorTech is being re-built with proper support and infrastucture. 
+# Atoro Tech
 
-## Projects
-- AtoroFrontend
-- AtoroAPI
-- AtoroDaemon
+Atoro Tech is undergoing a comprehensive rebuild with enhanced support infrastructure.
 
-The above 3 projects are actualy one project split into 3 parts for simplicity of develoment.
-***
+## Projects Architecture
 
-*Project by [@SnyderWillCode](https://github.com/SnyderWillCode), [@NaysKutzu](https://github.com/NaysKutzu)*
+Our platform consists of three integrated components:
+- **AtoroFrontend** - User interface layer
+- **AtoroAPI** - Service and data access layer
+- **AtoroDaemon** - Background processing engine
 
-*All projects are under copyright: AtoroTech 2022-present*
+These components represent a single cohesive platform that has been strategically segmented to optimize development workflows and maintainability.
+
+---
+
+*Developed by [SnyderWillCode](https://github.com/SnyderWillCode) and [NaysKutzu](https://github.com/NaysKutzu)*
+
+*Atoro Tech 2022-present. All rights reserved.*
